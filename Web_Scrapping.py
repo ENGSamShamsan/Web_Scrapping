@@ -5,7 +5,7 @@
 import requests
 import lxml
 from bs4 import BeautifulSoup
-
+''' intro'''
 '''This is a quick WORKING snipit for Web Scraping
     It featch the html page content and print it
     '''
